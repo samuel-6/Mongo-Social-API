@@ -1,0 +1,29 @@
+{
+  "name": "mongo-social-api",
+  "version": "1.0.0",
+  "description": "MongoSocialAPI: An advanced NoSQL-driven API designed to manage the intricate data requirements of modern social networks. Built on Express.js, MongoDB, and the Mongoose ODM, this API empowers social media startups to effortlessly handle unstructured data, facilitating seamless interaction among user thoughts, reactions, and friendships.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-6/Mongo-Social-API.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Node",
+    "Express"
+  ],
+  "author": "Samuel Munguia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuel-6/Mongo-Social-API/issues"
+  },
+  "homepage": "https://github.com/samuel-6/Mongo-Social-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moongose": "^1.0.0"
+  }
+}
