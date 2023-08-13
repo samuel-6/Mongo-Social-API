@@ -32,7 +32,7 @@ Use API testing platforms like Postman or Insomnia to interact with the API endp
 
 ## Demo
 
-Because the application isn't deployed, we have provided a walkthrough video demonstrating its functionality. Check it out [here](LINK_TO_YOUR_VIDEO).
+Because the application isn't deployed, we have provided a walkthrough video demonstrating its functionality. Check it out [here](https://drive.google.com/file/d/1frViIWtnx3hub5yGpAl8OMHGyOeqD0ry/view).
 
 ## Credits
 
@@ -55,5 +55,3 @@ This API boasts several features, including:
 ## How to Contribute
 
 Interested in contributing? We'd love to have you! Please reach out via GitHub for guidelines on how to get involved.
-
-## Tests
